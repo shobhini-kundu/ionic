@@ -16,7 +16,7 @@ const ExploreContainer: React.FC = () => {
       <hr />
       <div className="box">
         <div className="box_1"></div>
-        <div className="box_1"></div>
+        <div className="box_2"></div>
       </div>
     </>
   );
